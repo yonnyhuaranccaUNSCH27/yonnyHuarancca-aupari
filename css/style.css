@@ -1,0 +1,26 @@
+body{ 
+    background-color: #ffffff;
+    background-image:url(../imagen/fondo.jpg);
+    background-position: center center; background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+body {
+	padding-top: 19px;
+	padding-bottom: 19px;
+	background-size: cover;
+}
+
+#page {
+	max-width: 1420px;
+	margin: 0 auto;
+}
+
+#fondoprin{
+    background-color:#FFFFFF;
+}
+
+
+
+
+
